@@ -1,6 +1,6 @@
 MyContact
 
-MyContact adalah aplikasi manajemen kontak sederhana berbasis PHP Native yang menyimpan data menggunakan session. Cocok untuk latihan CRUD dasar tanpa database.
+MyContact adalah aplikasi manajemen kontak sederhana berbasis PHP Native yang menyimpan data menggunakan session.
 
 ----
 Fitur
